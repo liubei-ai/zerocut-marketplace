@@ -1,4 +1,5 @@
 ---
+name: core-rules
 description: 核心规则（不触发）
 ---
 

@@ -1,4 +1,5 @@
 ---
+name: 创作文档
 description: 当用户希望使用 pandoc 基于素材生成文档时使用，例如将生成的素材图片转成pptx、docx、pdf时，触发此 skill。
 ---
 
