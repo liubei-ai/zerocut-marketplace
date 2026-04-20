@@ -1,0 +1,16 @@
+{
+  "name": "zerocut-marketplace",
+  "owner": {
+    "name": "Liubei AI"
+  },
+  "metadata": {
+    "description": "Zerocut AI 视频制作插件市场"
+  },
+  "plugins": [
+    {
+      "name": "zerocut-plugin",
+      "source": "./plugins/zerocut-plugin",
+      "description": "Zerocut AI 视频/图片/音频制作技能集"
+    }
+  ]
+}
